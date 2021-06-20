@@ -25,6 +25,7 @@ O resultado foi bem interessante, visto que o modelo conseguiu atingir uma pontu
 Para resolver tal desafio utilizei novamente o designer de pipelines de Machine Learning do Azure para criar um pipeline de pré-processamento de dados e treino do modelo de ML. Assim, realizei o agrupamento dos alunos em três clusters baseados nas seguintes variáveis: `QE_I08` (renda) , `QE_I23` (horas de estudo) e  `NT_GER` (nota geral).  O modelo de _clusterização_ utilizado foi o `K-means`.
 
 ![Pipeline](https://raw.githubusercontent.com/AlexandreSaback/Desafio-Final---Trilha-Engenheiro-IA-Microsoft/main/Desafio3/PipelineDesafio3.png)
+
 Este modelo também foi treinado com 70% dos dados, o restante foi utilizado para validação. 
 
 ## Clusters
