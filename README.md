@@ -17,6 +17,7 @@ O modelo foi treinado com 70% dos dados, o restante foi utilizado para validaç�
 
 ## Avaliação
 O resultado foi bem interessante, visto que o modelo conseguiu atingir uma pontuação alta de r2 (coeficiente de determinação):
+
 ![r2](https://raw.githubusercontent.com/AlexandreSaback/Desafio-Final---Trilha-Engenheiro-IA-Microsoft/main/Desafio1/r2Desafio1.png)
 
 
